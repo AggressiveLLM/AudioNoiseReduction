@@ -113,19 +113,19 @@ print("Wiener 滤波降噪完成。")
 
 ### 2. 对比示例：SEGAN
 **增强前 vs. 增强后**
-![SEGAN Spectrogram](AudioNoiseReduction\SEGAN\Result\p232_092\plots\p232_092_detailed_analysis.png)
+![SEGAN Spectrogram](SEGAN\Result\p232_092\plots\p232_092_detailed_analysis.png)
 
 ---
 
 ### 3. 对比示例：SpecSub
 **增强前 vs. 增强后**
-![SpecSub Spectrogram](AudioNoiseReduction\SPECSUB\specsub_evaluation\plots\noisy_detailed.png)
+![SpecSub Spectrogram](SPECSUB\specsub_evaluation\plots\noisy_detailed.png)
 
 ---
 
 ### 4. 对比示例：Wiener
 **增强前 vs. 增强后**
-![Wiener Spectrogram](AudioNoiseReduction\WIENER\Result\wiener_filter_analysis_1.png)
+![Wiener Spectrogram](WIENER\Result\wiener_filter_analysis_1.png)
 
 
 ---
