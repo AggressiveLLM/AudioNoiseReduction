@@ -107,7 +107,7 @@ print("Wiener 滤波降噪完成。")
 
 ### 1. 对比示例：FRCRN
 **增强前 vs. 增强后**
-![FRCRN Spectrogram](AudioNoiseReduction\FRCRN\frcrn_Evaluation\plots\speech_with_noise1_detailed.png)
+![FRCRN Spectrogram](https://github.com/AggressiveLLM/AudioNoiseReduction/blob/master/AudioNoiseReduction/FRCRN/frcrn_Evaluation/plots/speech_with_noise1_detailed.png)   
 
 ---
 
