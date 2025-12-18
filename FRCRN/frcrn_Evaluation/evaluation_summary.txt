@@ -1,0 +1,12 @@
+FRCRN Audio Enhancement Evaluation Summary (Noisy Input Only)
+============================================================
+
+File: speech_with_noise1
+  Noisy energy: 0.0209
+  Enhanced energy: 0.0131
+  Energy reduction: 4.03 dB
+  Noisy audio: frcrn_Evaluation/audio/speech_with_noise1_noisy.wav
+  Enhanced audio: frcrn_Evaluation/audio/speech_with_noise1_frcrn_enhanced.wav
+  Spectrogram: frcrn_Evaluation/plots/speech_with_noise1_spectrogram.png
+  Detailed plot: frcrn_Evaluation/plots/speech_with_noise1_detailed.png
+------------------------------------------------------------

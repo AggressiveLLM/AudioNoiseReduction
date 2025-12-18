@@ -1,0 +1,9 @@
+SpecSub Audio Enhancement Evaluation Summary (Optimized Version)
+============================================================
+
+File: noisy
+  Noisy RMS Energy: 0.0589
+  Enhanced RMS Energy: 0.0374
+  Energy Reduction: 3.94 dB
+  Enhanced Audio: specsub_evaluation/audio/noisy_specsub_enhanced.wav
+------------------------------------------------------------
